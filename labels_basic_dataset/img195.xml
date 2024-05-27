@@ -1,0 +1,26 @@
+<annotation>
+	<folder>basic_dataset</folder>
+	<filename>img195.png</filename>
+	<path>C:\Users\Norbert\Desktop\nrbi\faculta\sem2\image_recognition_si\basic_dataset\img195.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>172</width>
+		<height>166</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oprirea_interzisa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>28</ymin>
+			<xmax>136</xmax>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+</annotation>

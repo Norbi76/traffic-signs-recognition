@@ -1,0 +1,26 @@
+<annotation>
+	<folder>basic_dataset</folder>
+	<filename>img107.png</filename>
+	<path>C:\Users\Norbert\Desktop\nrbi\faculta\sem2\image_recognition_si\basic_dataset\img107.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>248</width>
+		<height>251</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trecere_pietoni</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>19</ymin>
+			<xmax>214</xmax>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>basic_dataset</folder>
+	<filename>img160.png</filename>
+	<path>C:\Users\Norbert\Desktop\nrbi\faculta\sem2\image_recognition_si\basic_dataset\img160.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>155</width>
+		<height>143</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cedeaza</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>18</ymin>
+			<xmax>137</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+</annotation>
