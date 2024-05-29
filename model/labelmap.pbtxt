@@ -1,0 +1,15 @@
+item {
+  id: 1
+  name: 'oprirea_interzisa'
+}
+
+item {
+  id: 2
+  name: 'trecere_pietoni'
+}
+
+item {
+  id: 3
+  name: 'cedeaza'
+}
+
